@@ -10,6 +10,4 @@
    * Não devem ser utilizados letras com acentos nem caracteres especiais
    * Deve ser possível converter uma palavra para a versão criptografada e também retornar uma palavra criptografada para a versão original.
 
-#exemplo: "gato" => "gaitober" gaitober" => "gato"
-
 #Para testar o encriptador, sugiro utilizar o seguinte texto: **"pairaibenterns poberr enterncairair enterssenter dentersaifimesober enter tenterr fimesnailimeszaidober enterlenter coberm sufatcenterssober!"**
