@@ -3,13 +3,13 @@ body {
     display: flex;
     height: 90vh;
     width: 90vw;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
-/*ALTERA AS PROPRIEDADES DA IMAGEM DA LOGOMARCA*/
+/*ALTERA A LOGOMARCA*/
 .logo {
     margin: 20px 0 0 50px ;
 }
-/*ALTERA AS PROPRIEDADES DOS CAMPOS DE TEXTO*/
+/*ALTERA OS CAMPOS DE TEXTO*/
 #campo::placeholder {
     color: #0A3871;
 }
@@ -91,7 +91,7 @@ textarea {
     color: #0A3871;
     background-color: #F3F5FC;
 }
-/*BOTÃO DE "COPIAR TEXTO" QUE SERÁ CRIADO POSTERIORMENTE PELO JS*/
+/*BOTÃO DE "COPIAR TEXTO"*/
 .botao3 {
     background-color: white;
     color:#0A3871;
